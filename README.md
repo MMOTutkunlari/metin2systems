@@ -6,3 +6,5 @@ Metin2 4 Envanter (bilinen bugları çözülmüş)
 
 Kendi kodladığım sistem;
 Poison Gauge Sistem
+
+Paylaştığım sistemleri kaynak göstererek istediğiniz alanda paylaşabilirsiniz.
