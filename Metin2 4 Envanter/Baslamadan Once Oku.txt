@@ -1,0 +1,30 @@
+Merhaba arkadaşlar,
+Ben MMO Tutkunlarından Whistle.
+Bu dosyayı indirdiyseniz içinde 4 envanter yapımı için 
+gerekli dosyalar ve anlatım yer alacaktır.
+Source kısmında. Client ve Server kaynak kodlarında eklenecekleri ayırdım. 
+Dosyalara girdiğinizde anlatımı uygulayarak yapabilirsiniz.
+
+Client kısmında ise python kodları için gerekli anlatımlar mevcut.
+Client içinde ETC ve locale_xx dosyası mevcut.
+
+Her ülkede locale_en, locale_tr olduğu için xx yaptım.
+Siz locale_xx/locale/xx/ui içinde InventoryWindow.py dosyasındaki anlatıma bakarak
+düzenlemeleri yapın.
+
+ETC dosyasında da sistem için gerekli sub dosyası ve resim dosyaları mevcut. 
+Eski filesleri kullananlar sorun yaşamasın diye içine ekledim. 
+ETC içindekileri ETC packının içine atın. Not: Direk ETC klasörünü ETC'nin içine atmayın.
+ymir work klasörünü ETC klasörünün içine atın. 
+
+Arkadaşlar hazır kod vermek istemiyorum. Çünkü herkesin filesi farklı bu yüzden anlatımlarını
+ekledim.
+Düzgün takip ederseniz hiçbir sorun yaşamazsınız.
+
+Eğer bir sorun yaşarsanız sitemizi ziyaret edin;
+http://www.mmotutkunlari.com
+Metin2 destek: http://www.mmotutkunlari.com/bolum/metin2-pvp-soru-cevap-destek-yardim.1087/
+Bu dosyaların konusu: http://www.mmotutkunlari.com/konu/metin2-4-envanter-sistemi-sorunlari-fixlenmis.5529/
+Bu sistemi canlı görmek isterseniz: http://www.casro2.com
+
+Başarılar dilerim. :)

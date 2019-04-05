@@ -1,0 +1,18 @@
+# locale_xx/xx/locale_interface.txt
+# Metin2 4 Envanter Sistemi
+# MMO Tutkunları | www.mmotutkunlari.com | Whistle
+# Kodlandığı Tarih: 07.05.2018
+# Lütfen aşağıdaki adımları sırasıyla uygulayınız.
+
+# locale_tr/tr/locale_interface.txt dosyası açın ve şunları aratın;
+INVENTORY_PAGE_BUTTON_TOOLTIP_1	1. Envanter
+INVENTORY_PAGE_BUTTON_TOOLTIP_2	2. Envanter
+
+# Altına şunları ekleyin;
+INVENTORY_PAGE_BUTTON_TOOLTIP_3	3. Envanter
+INVENTORY_PAGE_BUTTON_TOOLTIP_4	4. Envanter
+
+# Bu kodları eklemezseniz oyuna giremezseniz ve syserr şöyle bir hata verir;
+<type 'exceptions.AttributeError'>:'module' object has no attribute 'INVENTORY_PAGE_BUTTON_TOOLTIP_3'
+
+#Bu dosyada yapacaklar ımız bu kadardır bir sonraki dosyaya geçebilirsiniz.
