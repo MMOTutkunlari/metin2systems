@@ -91,10 +91,16 @@
 # Altına şu kodları ekleyin;
 	def PartyPoisonGuageShow(self):
 		board = self.__FindPartyMemberInfoBoardByName(player.GetName())
+		if None == board:
+			return
+
 		board.UpdatePoisonGauge(1)
 	
 	def PartyPoisonGuageHide(self):
 		board = self.__FindPartyMemberInfoBoardByName(player.GetName())
+		if None == board:
+			return
+
 		board.UpdatePoisonGauge(0)
 
 

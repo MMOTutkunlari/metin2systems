@@ -13,7 +13,7 @@
 			self.BINARY_DragonSoulGiveQuilification()
 
 # Altına şu kodları ekleyin;
-		elif chr.AFFECT_POISON == type or 209 == type:
+		elif 209 == type:
 			self.playerGauge.RefreshGuageColor("lime")
 			self.interface.HPPoisonEffectShow()
 			self.interface.PartyPoisonGuageShow()
@@ -26,7 +26,7 @@
 			self.interface.DragonSoulDeactivate()
 
 # Altına şu kodları ekleyin;
-		elif chr.AFFECT_POISON == type or 209 == type:
+		elif 209 == type:
 			self.playerGauge.RefreshGuageColor("red")
 			self.interface.HPPoisonEffectHide()
 			self.interface.PartyPoisonGuageHide()
